@@ -121,4 +121,3 @@
   <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/ricca200xx/ricca200xx/output/github-snake.svg" />
 </picture>
 
-<p align="center"><sub>Riccardo Niccolò Agosti · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
